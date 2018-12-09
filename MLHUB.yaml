@@ -7,9 +7,10 @@ meta:
   display      : demo
   title        : Demonstrate the concept of scatter plots.
   author       : Graham.Williams@togaware.com
-dependencies :
+  url          : https://github.com/gjwgit/scatter
+dependencies:
   system : atril
-    cran : magrittr, rattle, ggplot2, dplyr, randomForest
+  cran   : magrittr, rattle, ggplot2, dplyr, randomForest
 commands:
   demo  : Step through alternative options for scatter plots.
   print : Display the R code used to generate the plots.
