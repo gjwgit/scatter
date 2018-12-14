@@ -9,6 +9,7 @@ meta:
   title        : Demonstrate the concept of scatter plots.
   author       : Graham.Williams@togaware.com
   url          : https://github.com/gjwgit/scatter
+  filename     : pool/main/s/scatter/scatter_1.2.2.mlm
 dependencies:
   system : atril
   cran   : magrittr, rattle, ggplot2, dplyr, randomForest
