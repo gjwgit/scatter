@@ -13,6 +13,7 @@ meta:
 dependencies:
   system : atril
   cran   : magrittr, rattle, ggplot2, dplyr, randomForest
+  files  : demo.R, print.R, README.md
 commands:
   demo  : Step through alternative options for scatter plots.
   print : Display the R code used to generate the plots.
