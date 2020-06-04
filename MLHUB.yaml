@@ -1,7 +1,7 @@
 --- # SCATTER
 meta:
   name         : scatter
-  version      : 2.0.0
+  version      : 2.0.1
   keywords     : r, graphics, visualisation, plot, scatter plot, introductory
   languages    : R
   license      : gpl3
